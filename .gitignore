@@ -118,3 +118,5 @@ notebooks/
 *.mp4
 *.tiff
 .idea/
+
+minnie_meshes/
