@@ -5,7 +5,7 @@ Notebooks for analyzing and generating figures for EM MC paper
 To download the Patch-seq data, see this website
 http://portal.brain-map.org/explore/classes/multimodal-characterization/multimodal-characterization-mouse-visual-cortex
 
-You will need the gene expression matricesfrom the NEMO archive
+You will need the gene expression matrices from the NEMO archive
 
 https://data.nemoarchive.org/other/AIBS/AIBS_patchseq/transcriptome/scell/SMARTseq/processed/analysis/20200611/
 
