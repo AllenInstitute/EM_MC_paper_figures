@@ -1,0 +1,520 @@
+spec_id_label,Tree_first_cl_label,Tree_call_label
+601506507,Vip Gpc3 Slc18a3,Core
+601790961,Sst Tac2 Myh4,PoorQ
+601803754,Sst Calb2 Pdlim5,Core
+601808698,Sst Hpse Cbln4,Core
+601810307,Sst Calb2 Necab1,I1
+601811091,Sst Esm1,Core
+602231708,Sst Calb2 Pdlim5,I1
+602535278,Sst Calb2 Pdlim5,I2
+604646725,Vip Pygm C1ql1,I1
+605060256,Vip Lmo1 Myl1,I2
+605160536,Vip Crispld2 Kcne4,I1
+606098116,Pvalb Tpbg,Core
+606271263,Pvalb Vipr2,Core
+606308411,Pvalb Vipr2,Core
+614728680,Pvalb Reln Itm2a,Core
+623326230,Sst Tac1 Tacr3,I2
+623415197,Pvalb Tpbg,Core
+623434306,Sst Tac1 Htr1d,I3
+626153003,Sst Hpse Cbln4,I3
+627881581,Sst Hpse Cbln4,Core
+637846989,Lamp5 Lsp1,Core
+638212024,Lamp5 Ntn1 Npy2r,Core
+639004612,Vip Igfbp4 Mab21l1,I1
+639013022,Vip Rspo1 Itga4,I1
+639674270,Vip Lmo1 Fam159b,Core
+639708328,Sst Esm1,Core
+639797308,Pvalb Tpbg,Core
+639809582,Sst Tac2 Myh4,I3
+639818525,Pvalb Tpbg,PoorQ
+639841063,Sst Hpse Cbln4,Core
+639862877,Sst Hpse Cbln4,Core
+639881631,Sst Myh8 Etv1 ,Core
+639893239,Sst Mme Fam114a1,I2
+639962984,Sst Tac1 Htr1d,Core
+640061596,Sst Chodl,Core
+640111844,Sst Crh 4930553C11Rik ,I2
+640280740,Vip Lect1 Oxtr,Core
+642124659,Lamp5 Lsp1,Core
+643021973,Vip Crispld2 Kcne4,I2
+643536919,Sncg Vip Nptx2,Core
+643702874,Sst Hpse Sema3c,PoorQ
+643727497,Sst Chodl,Core
+643754730,Sst Chodl,Core
+644571405,Pvalb Th Sst,Core
+644920227,Vip Lect1 Oxtr,Core
+644941196,Lamp5 Fam19a1 Tmem182,Core
+644994103,Lamp5 Lsp1,Core
+645012440,Sst Myh8 Etv1 ,I2
+645057881,Sst Calb2 Necab1,I2
+645169930,Lamp5 Plch2 Dock5,Core
+645322005,Sst Mme Fam114a1,Core
+645355846,Pvalb Akr1c18 Ntf3,I1
+646805498,Pvalb Reln Itm2a,Core
+646852171,Pvalb Reln Itm2a,Core
+647045788,Sst Tac1 Tacr3,PoorQ
+648139266,Vip Ptprt Pkp2,Core
+648582997,Lamp5 Ntn1 Npy2r,Core
+649387261,Sst Nr2f2 Necab1,I1
+652299236,Pvalb Tpbg,Core
+652300499,Lamp5 Lsp1,Core
+652305423,Lamp5 Lsp1,I1
+652306478,Pvalb Sema3e Kank4,I2
+652516963,Sncg Gpr50,Core
+652533530,Sst Esm1,Core
+652812484,Lamp5 Plch2 Dock5,Core
+652958762,Sst Hpse Cbln4,Core
+653327513,Pvalb Sema3e Kank4,I1
+653699672,Sst Hpse Cbln4,Core
+656156755,Sst Hpse Cbln4,Core
+656705176,Sst Chodl,Core
+656706125,Pvalb Tpbg,Core
+656901554,Sst Hpse Sema3c,Core
+657184390,Vip Rspo4 Rxfp1 Chat,I1
+657185355,Vip Rspo4 Rxfp1 Chat,I1
+657442490,Sst Hpse Sema3c,Core
+657454163,Sst Hpse Cbln4,Core
+657661669,Sst Crhr2 Efemp1,I1
+657661984,Sst Hpse Cbln4,Core
+657675492,Sst Calb2 Pdlim5,I1
+657857340,Sst Calb2 Necab1,Core
+657858349,Sst Myh8 Etv1 ,Core
+657983207,Sst Hpse Cbln4,I3
+657984709,Pvalb Th Sst,Core
+657985196,Sst Rxfp1 Eya1,Core
+657999088,Sst Calb2 Pdlim5,Core
+658012080,Sst Crhr2 Efemp1,I1
+658447323,Vip Rspo1 Itga4,I1
+659012847,Pvalb Calb1 Sst,I1
+659395808,Sst Tac1 Tacr3,PoorQ
+659405820,Sst Crhr2 Efemp1,I1
+659405868,Sst Chodl,Core
+659413418,Sst Hpse Cbln4,Core
+659697295,Lamp5 Lsp1,Core
+660050258,Sst Chrna2 Ptgdr,I1
+661189529,Sst Tac2 Tacstd2,Core
+661318431,Sst Crh 4930553C11Rik ,I1
+661319074,Sst Tac2 Tacstd2,I2
+661422439,Vip Ptprt Pkp2,Core
+661492805,Sst Calb2 Pdlim5,I2
+662580082,Pvalb Calb1 Sst,PoorQ
+663193112,Pvalb Gpr149 Islr,Core
+666141992,Pvalb Tpbg,Core
+667473785,Sst Mme Fam114a1,Core
+667492234,Lamp5 Lsp1,Core
+668176228,Sst Rxfp1 Eya1,Core
+668337999,Sst Tac1 Htr1d,I2
+668464797,Vip Pygm C1ql1,Core
+669047778,Sst Crhr2 Efemp1,I2
+669072736,Pvalb Gabrg1,Core
+669074640,Sst Calb2 Pdlim5,Core
+669088423,Sst Hpse Cbln4,PoorQ
+669165397,Sst Tac2 Tacstd2,Core
+669523148,Lamp5 Plch2 Dock5,I1
+669825289,Sst Tac1 Htr1d,Core
+669838950,Pvalb Reln Itm2a,Core
+670091720,Pvalb Reln Itm2a,Core
+670340941,Sst Chodl,Core
+673132928,Sst Myh8 Etv1 ,I2
+673395815,Sst Crhr2 Efemp1,I1
+673427380,Sst Chrna2 Glra3,Core
+674069192,Sst Calb2 Pdlim5,Core
+674126167,Pvalb Calb1 Sst,Core
+674495385,Sst Tac2 Tacstd2,I2
+679457550,Sst Nts,I2
+679899997,Sst Hpse Cbln4,I2
+679932490,Pvalb Tpbg,Core
+680027413,Vip Lect1 Oxtr,Core
+680048186,Pvalb Gabrg1,Core
+680108584,Pvalb Gabrg1,Core
+681793778,Vip Crispld2 Htr2c,I1
+682332013,Pvalb Reln Tac1,Core
+682454193,Pvalb Tpbg,I1
+683899155,Sst Nr2f2 Necab1,I2
+685624703,Sst Crhr2 Efemp1,I1
+685636842,Sst Crhr2 Efemp1,I1
+685707621,Pvalb Th Sst,Core
+687907602,Sst Chrna2 Glra3,I1
+688115867,Sst Rxfp1 Prdm8,Core
+688145929,Pvalb Th Sst,I1
+688958418,Sst Hpse Cbln4,Core
+689030611,Pvalb Calb1 Sst,I1
+689098357,Sst Hpse Cbln4,Core
+689211404,Pvalb Gabrg1,I2
+689280134,Pvalb Gabrg1,Core
+689656936,Sst Calb2 Pdlim5,Core
+691511791,Vip Rspo4 Rxfp1 Chat,Core
+691665864,Lamp5 Plch2 Dock5,Core
+691685873,Lamp5 Lsp1,Core
+691719142,Vip Lmo1 Myl1,Core
+692015490,Sst Rxfp1 Prdm8,Core
+692044280,Sst Nts,Core
+692083084,Sst Hpse Cbln4,PoorQ
+692286150,Vip Lmo1 Myl1,Core
+692310663,Sst Chrna2 Glra3,Core
+692565557,Sst Esm1,Core
+692777680,Vip Crispld2 Kcne4,Core
+692821749,Pvalb Sema3e Kank4,Core
+692824134,Pvalb Reln Itm2a,Core
+692846027,Pvalb Sema3e Kank4,Core
+693009119,Sst Nts,Core
+693085460,Sst Hpse Sema3c,I2
+693265371,Vip Ptprt Pkp2,Core
+694146546,Vip Ptprt Pkp2,Core
+694162255,Sst Nts,Core
+694183636,Vip Crispld2 Kcne4,Core
+694220357,Pvalb Akr1c18 Ntf3,Core
+694419620,Pvalb Gabrg1,Core
+694437359,Pvalb Gabrg1,Core
+694689662,Vip Ptprt Pkp2,Core
+694734857,Vip Lmo1 Myl1,Core
+695316536,Vip Ptprt Pkp2,Core
+696115308,Vip Lect1 Oxtr,Core
+697502029,Sst Rxfp1 Prdm8,Core
+697787349,Pvalb Sema3e Kank4,Core
+697795277,Pvalb Sema3e Kank4,Core
+697799017,Vip Lmo1 Myl1,Core
+697810838,Vip Crispld2 Kcne4,Core
+698042345,Pvalb Sema3e Kank4,Core
+698086962,Pvalb Reln Itm2a,Core
+698570301,Pvalb Reln Itm2a,Core
+698586385,Pvalb Sema3e Kank4,Core
+699448311,Pvalb Tpbg,Core
+699495755,Pvalb Tpbg,Core
+700390241,Vip Ptprt Pkp2,Core
+700413526,Vip Lmo1 Fam159b,Core
+701075567,Sst Chodl,Core
+701140434,Pvalb Sema3e Kank4,I2
+702051128,Sst Esm1,Core
+703283610,Sst Crh 4930553C11Rik ,I1
+703565379,Pvalb Th Sst,Core
+704047023,Sst Calb2 Pdlim5,Core
+705217315,Sst Tac2 Tacstd2,I2
+705278421,Sst Tac1 Tacr3,Core
+705570328,Sst Myh8 Etv1 ,Core
+705817510,Sst Nr2f2 Necab1,Core
+707162377,Sst Crhr2 Efemp1,I1
+707179690,Sst Chodl,Core
+707403326,Sst Hpse Cbln4,Core
+707424705,Sst Mme Fam114a1,Core
+707666779,Lamp5 Lsp1,Core
+708221965,Sst Crh 4930553C11Rik ,I1
+709153201,Pvalb Sema3e Kank4,Core
+709219898,Vip Pygm C1ql1,I1
+710338421,Sst Esm1,Core
+710730520,Sst Tac1 Htr1d,Core
+710743304,Sst Rxfp1 Eya1,Core
+710784375,Sst Calb2 Necab1,I2
+710920450,Sst Hpse Sema3c,Core
+711212623,Sst Crh 4930553C11Rik ,I2
+711464852,Sst Chodl,Core
+711483278,Lamp5 Lhx6,Core
+711528753,Sst Chodl,Core
+711571947,Sst Crhr2 Efemp1,I1
+711770582,Sst Calb2 Pdlim5,Core
+711903629,Sst Nr2f2 Necab1,I1
+713132614,Sst Calb2 Necab1,I2
+713442456,Sst Hpse Cbln4,Core
+714046701,Pvalb Reln Itm2a,Core
+714228701,Pvalb Reln Tac1,I1
+714485370,Sncg Vip Nptx2,I1
+714601733,Pvalb Akr1c18 Ntf3,I1
+714755043,Sncg Vip Nptx2,Core
+714936352,Sncg Vip Itih5,Core
+715159651,Vip Pygm C1ql1,I1
+716298521,Sncg Vip Itih5,Core
+716832846,Lamp5 Lsp1,Core
+717637005,Lamp5 Plch2 Dock5,Core
+717675736,Lamp5 Lsp1,Core
+718135969,Sst Rxfp1 Eya1,I2
+718188717,Pvalb Sema3e Kank4,Core
+718195284,Sst Nts,Core
+718202813,Sst Esm1,Core
+718205473,Sst Crhr2 Efemp1,I2
+718237581,Pvalb Sema3e Kank4,I1
+718257664,Pvalb Tpbg,Core
+718494231,Sst Mme Fam114a1,Core
+718618263,Sst Calb2 Pdlim5,Core
+718636190,Sst Rxfp1 Prdm8,Core
+718640845,Sst Tac2 Tacstd2,Core
+718643723,Sst Crh 4930553C11Rik ,I1
+718644056,Sst Rxfp1 Eya1,Core
+718647510,Sst Crhr2 Efemp1,I2
+718656998,Pvalb Calb1 Sst,I1
+718872930,Pvalb Reln Itm2a,Core
+720186469,Sst Esm1,Core
+720207494,Sst Crh 4930553C11Rik ,I1
+720318238,Sst Hpse Sema3c,I1
+720678722,Sst Crhr2 Efemp1,I1
+722795299,Sst Crhr2 Efemp1,I1
+722821387,Sst Calb2 Pdlim5,Core
+728756295,Sst Calb2 Necab1,I2
+729135271,Sst Esm1,I2
+730744363,Pvalb Reln Itm2a,I2
+730796336,Vip Ptprt Pkp2,Core
+731651186,Sst Esm1,Core
+731683221,Sst Myh8 Etv1 ,I2
+731733715,Sst Myh8 Etv1 ,Core
+731765828,Sst Tac2 Tacstd2,Core
+731882356,Lamp5 Ntn1 Npy2r,Core
+731917470,Lamp5 Plch2 Dock5,Core
+736884821,Vip Crispld2 Kcne4,Core
+738041476,Vip Rspo1 Itga4,Core
+738043822,Vip Crispld2 Kcne4,Core
+738401019,Vip Crispld2 Kcne4,Core
+738859085,Vip Crispld2 Kcne4,Core
+739539292,Sst Calb2 Pdlim5,I1
+739547189,Vip Pygm C1ql1,Core
+739558698,Sst Calb2 Pdlim5,Core
+739570508,Vip Crispld2 Kcne4,I1
+739792780,Sst Hpse Cbln4,I2
+739810705,Lamp5 Plch2 Dock5,I1
+740094065,Sst Crh 4930553C11Rik ,I1
+740110275,Sst Nts,Core
+740134630,Sst Myh8 Etv1 ,Core
+740135032,Sst Calb2 Pdlim5,Core
+740155221,Sst Calb2 Pdlim5,Core
+740164794,Pvalb Reln Itm2a,Core
+740380531,Sst Calb2 Pdlim5,I1
+740649731,Sst Crhr2 Efemp1,I2
+740660643,Sst Tac2 Myh4,I2
+740675145,Sst Esm1,Core
+740695122,Sst Myh8 Etv1 ,I2
+740732467,Sst Tac2 Tacstd2,Core
+740780456,Sst Hpse Cbln4,I1
+740819727,Sst Rxfp1 Eya1,Core
+740872967,Sst Tac1 Htr1d,I2
+740875222,Sst Chodl,Core
+740890186,Pvalb Tpbg,Core
+741187985,Sst Mme Fam114a1,PoorQ
+741313892,Sst Calb2 Pdlim5,PoorQ
+741785767,Sst Hpse Cbln4,I1
+741788179,Sst Tac1 Htr1d,I2
+741796557,Sst Myh8 Etv1 ,I1
+741940660,Sst Mme Fam114a1,I1
+742009621,Sst Mme Fam114a1,I2
+742033571,Vip Crispld2 Htr2c,Core
+742784488,Vip Ptprt Pkp2,Core
+743001170,Sncg Vip Itih5,Core
+743012953,Sst Rxfp1 Prdm8,I2
+743041228,Sst Nts,I1
+743049614,Sst Nts,Core
+743458377,Vip Col15a1 Pde1a,Core
+743468218,Vip Crispld2 Htr2c,I1
+743504177,Vip Crispld2 Htr2c,Core
+744053590,Vip Lmo1 Myl1,Core
+744211669,Vip Lmo1 Fam159b,Core
+744454952,Pvalb Tpbg,I2
+744476851,Sst Mme Fam114a1,Core
+744975652,Vip Pygm C1ql1,Core
+745584401,Sst Mme Fam114a1,Core
+745633800,Sst Mme Fam114a1,PoorQ
+745692039,Sst Calb2 Pdlim5,Core
+745736817,Sst Tac1 Htr1d,I2
+746086313,Lamp5 Plch2 Dock5,Core
+746200101,Sst Tac1 Htr1d,I2
+746257405,Sst Tac1 Htr1d,I3
+746732672,Sst Chrna2 Glra3,I2
+746747868,Sst Tac2 Tacstd2,Core
+746754997,Sst Mme Fam114a1,PoorQ
+746917764,Sst Rxfp1 Prdm8,Core
+746924803,Sst Hpse Cbln4,Core
+747028632,Sst Chrna2 Glra3,I2
+750472605,Sst Myh8 Etv1 ,I2
+750706642,Sst Esm1,Core
+750776506,Sst Crhr2 Efemp1,I3
+750824726,Sst Nts,Core
+750833190,Sst Rxfp1 Eya1,Core
+751199266,Sst Myh8 Etv1 ,I1
+751947558,Sst Mme Fam114a1,I1
+751991773,Sst Rxfp1 Prdm8,I2
+752027250,Sst Hpse Cbln4,Core
+752042986,Sst Hpse Sema3c,Core
+752063316,Sst Calb2 Pdlim5,Core
+754508194,Pvalb Sema3e Kank4,Core
+755552030,Vip Chat Htr1f,I1
+755592855,Vip Pygm C1ql1,I1
+755625739,Pvalb Gpr149 Islr,Core
+755625849,Vip Chat Htr1f,I1
+757252810,Vip Col15a1 Pde1a,Core
+758263126,Vip Lmo1 Myl1,Core
+759751429,Vip Crispld2 Kcne4,Core
+759909292,Sst Hpse Sema3c,Core
+759939473,Sst Tac2 Tacstd2,Core
+759948010,Sst Rxfp1 Prdm8,Core
+759955697,Sst Hpse Sema3c,Core
+759970262,Sst Tac1 Htr1d,I1
+760011270,Sst Myh8 Etv1 ,I1
+760064682,Pvalb Calb1 Sst,I2
+760268259,Sst Hpse Cbln4,Core
+760280955,Sst Tac1 Htr1d,I2
+760294832,Sst Chrna2 Glra3,Core
+760316107,Vip Col15a1 Pde1a,Core
+760416458,Sst Chrna2 Ptgdr,I1
+760437219,Vip Lect1 Oxtr,I1
+760821319,Sst Rxfp1 Prdm8,Core
+760832993,Sst Crhr2 Efemp1,I1
+760834631,Sst Calb2 Necab1,I1
+760890074,Vip Chat Htr1f,I1
+760961855,Sst Calb2 Pdlim5,Core
+760981484,Sst Hpse Cbln4,Core
+761297232,Vip Ptprt Pkp2,Core
+761304075,Vip Pygm C1ql1,I2
+761344650,Vip Lmo1 Myl1,Core
+761409397,Lamp5 Lsp1,Core
+761429710,Pvalb Reln Itm2a,Core
+761816186,Vip Lmo1 Myl1,I1
+761820827,Vip Lmo1 Myl1,I1
+761822060,Vip Crispld2 Htr2c,Core
+762590075,Pvalb Tpbg,Core
+762757594,Pvalb Reln Itm2a,I2
+763378303,Pvalb Gpr149 Islr,Core
+763912380,Sncg Gpr50,Core
+763952780,Vip Lect1 Oxtr,I1
+764341238,Lamp5 Fam19a1 Pax6,Core
+764391439,Lamp5 Plch2 Dock5,I1
+764726542,Pvalb Reln Itm2a,Core
+764872932,Pvalb Tpbg,Core
+764879591,Vip Chat Htr1f,I1
+764896381,Lamp5 Ntn1 Npy2r,Core
+764897253,Lamp5 Plch2 Dock5,Core
+764901187,Lamp5 Plch2 Dock5,Core
+764902677,Lamp5 Ntn1 Npy2r,I2
+764902707,Lamp5 Lsp1,Core
+766097293,Pvalb Reln Tac1,Core
+766591236,Sst Esm1,I2
+768763533,Sst Crhr2 Efemp1,I2
+770216620,Sst Hpse Cbln4,Core
+770238836,Sst Nr2f2 Necab1,Core
+778327002,Vip Pygm C1ql1,I1
+779708399,Sst Hpse Cbln4,Core
+780005520,Sst Hpse Sema3c,I1
+786135798,Sst Chodl,Core
+786176775,Sst Chodl,Core
+786228558,Pvalb Reln Itm2a,Core
+788296224,Sst Calb2 Pdlim5,Core
+795530674,Sst Esm1,Core
+795563325,Sst Tac1 Tacr3,I2
+795572082,Sst Crhr2 Efemp1,I1
+795844214,Sst Nts,Core
+796636728,Vip Crispld2 Htr2c,I1
+796666943,Vip Chat Htr1f,Core
+797664123,Vip Chat Htr1f,Core
+797722932,Vip Crispld2 Kcne4,Core
+799776604,Sncg Vip Nptx2,I1
+803605276,Sst Crhr2 Efemp1,I2
+804968066,Sst Hpse Cbln4,Core
+804977071,Vip Ptprt Pkp2,Core
+805584825,Sst Calb2 Pdlim5,Core
+808285808,Sst Rxfp1 Eya1,Core
+808475329,Pvalb Reln Itm2a,Core
+808537562,Sst Calb2 Pdlim5,I2
+808824183,Sst Tac2 Tacstd2,Core
+808875776,Sst Hpse Sema3c,Core
+808882292,Sst Esm1,Core
+809006343,Pvalb Tpbg,Core
+809113087,Sst Nr2f2 Necab1,Core
+809338969,Sst Calb2 Pdlim5,Core
+809649556,Pvalb Tpbg,Core
+809688289,Vip Crispld2 Htr2c,I1
+810317285,Sst Tac2 Tacstd2,Core
+812996960,Sst Mme Fam114a1,Core
+813500978,Serpinf1 Aqp5 Vip,Core
+816012073,Sst Rxfp1 Eya1,Core
+816434177,Sst Chodl,Core
+817935092,Pvalb Reln Tac1,Core
+818792182,Pvalb Reln Itm2a,Core
+820754704,Sst Tac1 Htr1d,I1
+820897104,Pvalb Reln Tac1,I1
+821563005,Pvalb Akr1c18 Ntf3,Core
+821771315,Sst Chrna2 Glra3,Core
+821774757,Sst Nr2f2 Necab1,Core
+821788449,Sst Nr2f2 Necab1,I2
+821907565,Pvalb Reln Itm2a,Core
+823253200,Sst Tac1 Tacr3,I2
+823681740,Lamp5 Lsp1,Core
+823702943,Pvalb Vipr2,Core
+823719680,Lamp5 Ntn1 Npy2r,Core
+825269133,Pvalb Gpr149 Islr,Core
+825522397,Lamp5 Plch2 Dock5,Core
+825549510,Lamp5 Plch2 Dock5,Core
+826712572,Lamp5 Plch2 Dock5,Core
+827347629,Lamp5 Plch2 Dock5,Core
+827447865,Lamp5 Plch2 Dock5,I1
+827524052,Lamp5 Ntn1 Npy2r,Core
+827573535,Lamp5 Plch2 Dock5,Core
+828803869,Lamp5 Lsp1,Core
+829170676,Pvalb Vipr2,Core
+829185764,Vip Lmo1 Myl1,Core
+829195312,Vip Crispld2 Htr2c,Core
+830434392,Sncg Gpr50,I1
+831988252,Vip Lmo1 Myl1,PoorQ
+836844418,Vip Pygm C1ql1,Core
+837594867,Pvalb Reln Itm2a,Core
+841718359,Sst Calb2 Pdlim5,Core
+841834394,Sst Calb2 Necab1,Core
+842841654,Sst Calb2 Necab1,Core
+842844583,Sst Calb2 Pdlim5,Core
+843366621,Sst Chodl,Core
+844757902,Sst Tac1 Htr1d,Core
+844870606,Vip Pygm C1ql1,Core
+844908436,Vip Chat Htr1f,Core
+844965212,Sst Rxfp1 Prdm8,Core
+846902552,Sst Rxfp1 Eya1,Core
+847083836,Sst Calb2 Pdlim5,I1
+849535368,Sst Esm1,Core
+849607183,Sst Hpse Sema3c,Core
+851016910,Sst Hpse Cbln4,I1
+853882442,Pvalb Akr1c18 Ntf3,Core
+855275163,Lamp5 Krt73,Core
+855357345,Sncg Vip Nptx2,Core
+855791035,Sncg Vip Nptx2,I1
+855995114,Sncg Gpr50,Core
+857223181,Sncg Gpr50,Core
+857296784,Sncg Vip Itih5,Core
+858255768,Sncg Gpr50,I1
+859621160,Sncg Gpr50,PoorQ
+859655391,Sncg Vip Itih5,Core
+861736319,Sncg Vip Itih5,Core
+861765455,Sncg Vip Itih5,Core
+861769605,Sncg Vip Itih5,I2
+862596299,Sncg Vip Itih5,Core
+863585604,Sst Chrna2 Ptgdr,I2
+863604233,Sst Esm1,Core
+863631899,Sst Esm1,Core
+866267921,Lamp5 Plch2 Dock5,Core
+870661094,Lamp5 Lhx6,Core
+871782504,Pvalb Reln Tac1,Core
+872026690,Pvalb Akr1c18 Ntf3,Core
+872248529,Sst Tac1 Htr1d,I2
+873854264,Sst Chodl,Core
+886335606,Pvalb Reln Itm2a,I2
+887048277,Pvalb Akr1c18 Ntf3,Core
+887156236,Lamp5 Lsp1,Core
+887288382,Vip Chat Htr1f,Core
+888108541,Lamp5 Ntn1 Npy2r,I1
+889183564,Lamp5 Ntn1 Npy2r,Core
+889235347,Lamp5 Plch2 Dock5,Core
+892547707,Pvalb Reln Itm2a,Core
+894308422,Pvalb Tpbg,Core
+898697809,Vip Lmo1 Myl1,I1
+898703349,Vip Lmo1 Myl1,Core
+904023586,Pvalb Akr1c18 Ntf3,Core
+913928092,Sncg Gpr50,Core
+935032340,Sncg Gpr50,Core
+941794256,Sncg Gpr50,Core
+941802910,Sncg Vip Itih5,Core
+941824942,Sncg Slc17a8,Core
+941846857,Sncg Gpr50,Core
+941868688,Sncg Gpr50,I1
+941935110,Sncg Gpr50,Core
+946190769,Sncg Vip Itih5,Core
+958930508,Pvalb Akr1c18 Ntf3,Core
+966835644,Sst Chodl,Core
+992268582,Pvalb Vipr2,Core
+992386952,Sncg Vip Itih5,Core
+992830261,Sncg Slc17a8,Core
+993243528,Lamp5 Fam19a1 Pax6,Core
+993245688,Sncg Gpr50,Core
+993283588,Sncg Gpr50,Core
