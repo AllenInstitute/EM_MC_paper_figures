@@ -23,6 +23,15 @@ For example setup a new anaconda environemnt or virtual environment then within 
 ```
 The file includes exact pins in order to reproduce what we did with the paper, though we are not saying that only those versions will work.  You can use requirements.in instead that has no version pins, but use at your own risk as versions might have changed that will break this code.
 
+To run the Classifier_Optimization_And_Met_Predictions.ipynb notebook you need to install a seperate Python 3.6 environment
+
+```
+   conda create -n EM_MC_paper_figs_py36_10 python=3.6.10
+   conda activate EM_MC_paper_figs_py36_10
+   conda install ipykernel
+   pip -r requirementspy36.txt
+```
+
 ## Data download
 The mm3 EM dataset is publicly available at: https://www.microns-explorer.org/cortical-mm3. Analysis for this paper was performed on version 661 of the dataset, a snapshot taken on September 19th, 2023 at 4:00am UTC.
 
