@@ -9,7 +9,6 @@ cloud-files ==	4.21.1
 skeleton_plot ==	0.0.10
 seaborn	== 0.13.0
 vtk	== 9.1.0
-scikit-learn ==	0.24.2
 tqdm	== 4.65.0
 statsmodels == 0.13.05
 cloud-volume	== 8.28.0
