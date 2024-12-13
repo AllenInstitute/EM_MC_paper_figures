@@ -2,7 +2,7 @@
 Jupyter Notebooks used to analyze and generate figures for "Distinct synaptic connectivity and target specificity of predicted Sst-transcriptomic types in electron microscopy"
 
 ## System Requirements
-Most Notebooks were run on Python 3.9 on a Windows OS 10 but were tested on Python 3.9 on Mac OS 14.6.1 and Mac OS ??? and Windows OS 11.
+Most Notebooks were run on Python 3.9 on a Windows OS 10 machine but were tested on Python 3.9 on Mac OS 14.6.1 and Windows OS 11.
 We don't have any reason to believe it would not work on Linux but it has not been tested.
 However, Fig2_vtk_render_allcell_outputs_myelin_streamline_for_review was run using Vtk which we were only able to install on Mac OS.
 
